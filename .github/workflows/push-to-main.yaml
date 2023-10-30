@@ -22,4 +22,3 @@ jobs:
         with:
           version: v1.53
           args: --config=.golangci.yaml
-          
